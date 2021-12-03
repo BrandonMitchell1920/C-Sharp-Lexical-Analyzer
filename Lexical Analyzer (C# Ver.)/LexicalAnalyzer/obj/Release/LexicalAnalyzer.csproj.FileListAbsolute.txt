@@ -1,0 +1,10 @@
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe.config
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.pdb
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.csproj.AssemblyReference.cache
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.Root.resources
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.Properties.Resources.resources
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.csproj.GenerateResource.cache
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.exe
+E:\C# Lexical Analyzer\LexicalAnalyzer\LexicalAnalyzer\obj\Release\LexicalAnalyzer.pdb
