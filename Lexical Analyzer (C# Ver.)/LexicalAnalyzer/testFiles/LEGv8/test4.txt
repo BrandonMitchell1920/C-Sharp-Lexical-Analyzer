@@ -1,0 +1,11 @@
+         .data
+Number:  .doubleword 35, -20, 0x33AAF3154555D499
+
+         .text
+Begin:   ADD    X19, X18, X5    // Here is a legal comment
+         SUB    X7, X18, X12
+
+// This is a legal comment. 
+         ADD    X8, X8, X4
+
+

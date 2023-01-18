@@ -1,0 +1,8 @@
+         .data
+         .doubleword 35, -20, 0x33AAF3154555D499
+
+         .text
+         ADD    X19,X18,X5
+         SUB    X7,X18,X12
+         ADD    X8,X8,X4
+

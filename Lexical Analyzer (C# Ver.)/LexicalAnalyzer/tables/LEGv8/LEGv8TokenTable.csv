@@ -1,0 +1,27 @@
+-Illegal state; internal error
+-Illegal character or character out of place
+-Incorrect directive format; . must be followed by [A-Za-z]+
+directive
+identifier
+label
+lbracket
+rbracket
+comma
+-Removed state; internal error
+-Removed state; internal error
+-Removed state; internal error
+whitespace
+newline
+-Illegal forward slash; two needed for comment
+comment
+-Illegal pound sign; # must be followed by [0-9+-]
+immediate
+immediate
+decimal
+-Illegal hexadecimal number; 0x must be followed by [0-9a-fA-F]+
+hexadecimal
+-Illegal immediate; missing numeral portion
+-Illegal decimal; missing numeral portion
+-Malformed line ending; carriage return with no line feed
+decimal
+colon

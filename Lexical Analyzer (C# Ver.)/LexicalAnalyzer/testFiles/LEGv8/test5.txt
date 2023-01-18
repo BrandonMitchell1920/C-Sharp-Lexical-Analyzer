@@ -1,0 +1,10 @@
+         .data
+Number:  .doubleword 35, -20, 0x33AAF3154555D499
+
+         .text
+Begin:   ADD    X19, X18, X5
+         ADR    X19, X18, X5
+         SUB    X7, X18, X12
+         ADD    8, X8, X4
+         ADDS   XZR, SP, X31
+

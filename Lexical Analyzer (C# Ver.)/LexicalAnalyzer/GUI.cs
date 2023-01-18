@@ -21,9 +21,9 @@ namespace LexicalAnalyzer
     {
         // Default directories and files
         public static readonly string
-            DEF_TABLE_DIR  = "../../tables/",
-            DEF_SOURCE_DIR = "../../testFiles/",
-            DEF_HELP_DIR   = "../../help/",
+            DEF_TABLE_DIR  = "./tables/",
+            DEF_SOURCE_DIR = "./testFiles/",
+            DEF_HELP_DIR   = "./help/",
 
             DEF_SCAN   = DEF_TABLE_DIR  + "DefaultScanTable.csv",
             DEF_TOKEN  = DEF_TABLE_DIR  + "DefaultTokenTable.csv",
